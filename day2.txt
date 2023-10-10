@@ -1,0 +1,12 @@
+1/06/2023
+what is browser
+Introduction of javascript
+Internal JavaScript
+External JavaScript
+varibles in javaScript
+i.e var,let,const
+
+day02
+how the web works
+how does the browser actually render a website
+
